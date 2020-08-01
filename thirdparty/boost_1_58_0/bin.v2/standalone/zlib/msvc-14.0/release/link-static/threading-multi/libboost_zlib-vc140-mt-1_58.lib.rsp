@@ -1,0 +1,13 @@
+
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\adler32.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\compress.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\crc32.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\deflate.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\gzio.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\infback.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\inffast.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\inflate.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\inftrees.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\trees.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\uncompr.obj" 
+"bin.v2\standalone\zlib\msvc-14.0\release\link-static\threading-multi\zutil.obj"   

@@ -1,0 +1,5 @@
+
+"bin.v2\libs\iostreams\build\msvc-14.0\release\link-static\threading-multi\file_descriptor.obj" 
+"bin.v2\libs\iostreams\build\msvc-14.0\release\link-static\threading-multi\mapped_file.obj" 
+"bin.v2\libs\iostreams\build\msvc-14.0\release\link-static\threading-multi\gzip.obj" 
+"bin.v2\libs\iostreams\build\msvc-14.0\release\link-static\threading-multi\zlib.obj"   
